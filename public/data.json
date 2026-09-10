@@ -1,0 +1,74 @@
+[
+  {
+    "playername": "Shakib Al Hasan",
+    "playerimage": "https://static-files.cricket-australia.pulselive.com/headshots/440/7702-camedia.png",
+    "country": "Bangladesh",
+    "playertype": "All-Rounder",
+    "battingstyle": "Left Handed",
+    "bowlingstyle": "Left Arm Orthodox",
+    "price": 1500
+  },
+  {
+    "playername": "Virat Kohli",
+    "playerimage": "https://static.toiimg.com/photo/119129076.cms",
+    "country": "India",
+    "playertype": "Batsman",
+    "battingstyle": "Right Handed",
+    "bowlingstyle": "Right Arm Medium",
+    "price": 2000
+  },
+  {
+    "playername": "Joe Root",
+    "playerimage": "https://static-files.cricket-australia.pulselive.com/headshots/288/193-odi.png",
+    "country": "England",
+    "playertype": "Batsman",
+    "battingstyle": "Right Handed",
+    "bowlingstyle": "Right Arm Off Break",
+    "price": 1000
+  },
+  {
+    "playername": "Jasprit Bumrah",
+    "playerimage": "https://images.icc-cricket.com/image/upload/t_player-headshot-portrait-lg-webp/prd/assets/players/13203/63755.png",
+    "country": "India",
+    "playertype": "Bowler",
+    "battingstyle": "Right Handed",
+    "bowlingstyle": "Right Arm Fast",
+    "price": 1500
+  },
+  {
+    "playername": "Kane Williamson",
+    "playerimage": "https://api.bdcrictime.com/Profile/kane-williamson-12_10_2023.jpg",
+    "country": "New Zealand",
+    "playertype": "Batsman",
+    "battingstyle": "Right Handed",
+    "bowlingstyle": "Right Arm Off Break",
+    "price": 1500
+  },
+  {
+    "playername": "Ben Stokes",
+    "playerimage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC30NXcbVOaukOTxxgb5lU7RY418rTuMo_ZGbQiWhelw&s=10",
+    "country": "England",
+    "playertype": "All-Rounder",
+    "battingstyle": "Left Handed",
+    "bowlingstyle": "Right Arm Fast Medium",
+    "price": 1000
+  },
+  {
+    "playername": "Rashid Khan",
+    "playerimage": "https://www.gujarattitansipl.com/static-assets/images/players/65748.png?v=6.76",
+    "country": "Afghanistan",
+    "playertype": "Bowler",
+    "battingstyle": "Right Handed",
+    "bowlingstyle": "Right Arm Leg Break",
+    "price": 1500
+  },
+  {
+    "playername": "Jos Buttler",
+    "playerimage": "https://www.gujarattitansipl.com/static-assets/images/players/9782.png?v=6.76",
+    "country": "England",
+    "playertype": "Wicket Keeper",
+    "battingstyle": "Right Handed",
+    "bowlingstyle": "Right Arm Medium",
+    "price": 1000
+  }
+]
