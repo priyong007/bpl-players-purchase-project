@@ -1,6 +1,6 @@
 # BPL Players Purchase Project
 
-A web application where users can browse available football players, select the ones they want to buy, and manage their selections using in-game coins. The system validates the user’s remaining balance and prevents purchases when the available coins are insufficient.
+A web application where users can browse available players, select the ones they want to buy, and manage their selections using in-game coins. The system validates the user’s remaining balance and prevents purchases when the available coins are insufficient.
 
 ## Overview
 
