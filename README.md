@@ -1,40 +1,66 @@
-BPL Players Purchase Project
-A web application designed for users to browse and purchase football players using in-game coin currency. The platform allows users to select players, review their choices, and remove players from their selected list before completing the purchase.
+# BPL Players Purchase Project
 
-Overview
-This project provides a simple and interactive player purchasing experience where users can:
+A web application where users can browse available football players, select the ones they want to buy, and manage their selections using in-game coins. The system validates the user’s remaining balance and prevents purchases when the available coins are insufficient.
 
-View available players
-Select players for purchase
-Remove selected players if needed
-Check coin balance before buying
-Prevent purchase when insufficient coins are available
-The application is built to deliver a smooth and user-friendly experience for managing player selections and purchases.
+## Overview
 
-Features
-Player listing with key details
-Add players to the selection list
-Remove players from the selected list
-Balance validation using available coins
-Purchase restriction when coins are insufficient
-Clean and responsive user interface
-How It Works
-Users begin by viewing the available players. They can add any player they want to their selected list. If they decide to remove a player, they can do so before purchase. Each selected player is associated with a coin cost, and the total amount is checked against the user’s available balance. If the user does not have enough coins, the purchase is blocked, ensuring the system remains accurate and fair.
+This project is designed as a simple player purchasing platform where users can:
+- View available players
+- Select players for purchase
+- Remove players from the selected list
+- Check total cost against available coins
+- Prevent purchase when balance is insufficient
 
-Tech Stack Used
-React
-TypeScript
-Vite
-JavaScript (ES6+)
-CSS
-Project Goal
-The main objective of this project is to create a simple web-based purchasing system where users can manage player selections efficiently while keeping transaction logic secure and reliable.
+The main goal of this project is to provide a smooth and interactive user experience for managing player selections and purchase decisions.
 
-If you want, I can also rewrite this into a more polished GitHub-style README with sections like:
+## Features
 
-Features
-Installation
-Usage
-Screenshots
-Live Demo
-Contributing
+- Display list of available players
+- Add players to the cart/selection list
+- Remove players from the selected list
+- Calculate total purchase cost
+- Validate coin balance before purchase
+- Block transaction when coins are not enough
+- Responsive and user-friendly interface
+
+## How It Works
+
+1. The user views the list of available players.
+2. The user selects players they want to buy.
+3. The selected players are added to a purchase list.
+4. The total cost is calculated automatically.
+5. If the user has enough coins, the purchase can proceed.
+6. If the user does not have enough coins, the system prevents the purchase and shows that the purchase is not possible.
+
+## Tech Stack
+
+- React
+- TypeScript
+- Vite
+- JavaScript
+- CSS
+
+## Project Purpose
+
+This project demonstrates a basic e-commerce-style purchasing flow in a sports-themed application. It focuses on:
+- State management for selected items
+- Conditional logic for purchase validation
+- User interaction and dynamic UI updates
+- Coin-based balance checking
+
+## Example User Flow
+
+- User opens the application
+- User sees available players
+- User selects a player
+- User may remove a selected player if needed
+- User checks total cost
+- If sufficient coins are available, the purchase is allowed
+- If coins are insufficient, the system denies the action
+
+## Conclusion
+
+This project is a simple but practical web application that combines player selection logic with coin-based purchasing rules. It is a good example of implementing interactive frontend functionality with validation and user experience in mind.
+
+---
+
